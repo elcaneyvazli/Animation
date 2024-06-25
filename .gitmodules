@@ -1,0 +1,3 @@
+[submodule "Card_Gradient"]
+	path = Card_Gradient
+	url = https://github.com/elcaneyvazli/Card_Gradient_Animation.git
