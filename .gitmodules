@@ -1,3 +1,6 @@
 [submodule "Card_Gradient"]
 	path = Card_Gradient
 	url = https://github.com/elcaneyvazli/Card_Gradient_Animation.git
+[submodule "Scroll_Animation"]
+	path = Scroll_Animation
+	url = https://github.com/elcaneyvazli/Scroll_Animation.git
