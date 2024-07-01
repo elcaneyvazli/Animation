@@ -4,3 +4,6 @@
 [submodule "Scroll_Animation"]
 	path = Scroll_Animation
 	url = https://github.com/elcaneyvazli/Scroll_Animation.git
+[submodule "Simple_Toast_Animation"]
+	path = Simple_Toast_Animation
+	url = https://github.com/elcaneyvazli/Simple_Toast_Animation.git
