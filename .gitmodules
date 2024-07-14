@@ -10,3 +10,6 @@
 [submodule "dnd_react"]
 	path = dnd_react
 	url = https://github.com/elcaneyvazli/Dnd_React.git
+[submodule "hero_animation_react"]
+	path = hero_animation_react
+	url = https://github.com/elcaneyvazli/Portfolio.git
